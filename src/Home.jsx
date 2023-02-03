@@ -5,7 +5,7 @@ function Home() {
     console.log(data);
     return (
       <div>
-        <h1>Selamat , {data.email}</h1>
+        <h1>Selamat Datang, {data.email}</h1>
       </div>
     )
   }

@@ -11,6 +11,7 @@ function App() {
   }
   return (
     <div>
+      <h1>Prototype Login Google</h1>
       <button onClick={Loginnamakalian}>Login</button>
     </div>
   )
